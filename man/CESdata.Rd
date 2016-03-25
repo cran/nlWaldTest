@@ -15,4 +15,4 @@
 \source{EViews, coef_test.wf1}
 \examples{
 attach(CESdata)}
-\keyword{datasets}
+

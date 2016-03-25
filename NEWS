@@ -1,0 +1,4 @@
+Changes in Version 1.1
+
+  o nlWaldtest() is compeletely rewritten. Now it uses analytical derivatives if avaialable. The syntax changed for the function to be applicable after ANY model, provided parameter estimates and covariace matrix are avaialable. The backward compatibility is retained except for the default option now is to perform Chi square version of the test. Fixed bug in multiple condition testing while extracting the cass of the model object. A new function  nlConfint() is added. It computes confidence intervals for nonlinear functions of parameters.
+

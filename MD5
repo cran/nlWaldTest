@@ -1,6 +1,10 @@
-9a0a083bf68dabcc48714c85d8582415 *DESCRIPTION
-8e2223ded32e96cbdb8e5c03201f03e5 *NAMESPACE
-8264848f2a5ece29354f7e1e6f8bdc07 *R/nlWald25.R
+11a4b4c9b2c7365e04c9bf9a75ff776b *DESCRIPTION
+ff40708ea7a4ca1260219366dae36b5c *NAMESPACE
+c775b5a830cfca73bf891c7cb2d3c966 *NEWS
+5f6c2af2c237bfb6eb0895e917bdde59 *R/nlConfint.R
+98f18d40c3cbcc3a55acced62ca03119 *R/nlWaldTest-internal.R
+e4cf33d76349b08a8a32188e71bc5302 *R/nlWaldtest.R
 0e7c9daf6e496ad53b8c7470df8f8f3b *data/CESdata.rda
-0eea3c0fed8861eba2f53b9139a50f0a *man/CESdata.Rd
-10c600ff5d99f1d85f28ed0a732fe503 *man/nlWaldtest.Rd
+7eebde071995e1aa3e56afc5cd8637cb *man/CESdata.Rd
+563a69558408d1ff860e5e3ee61b90f2 *man/nlConfint.Rd
+8a27453000ce4fabec55bf8be1ace036 *man/nlWaldtest.Rd
